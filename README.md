@@ -59,7 +59,7 @@ I'm currently working as a **Software Engineer - Level 3** at [Chaldal](https://
 Here’s some things I’ve learned from my experience over the years:
 
 - **Murphy's Law:** "Anything that can go wrong, will go wrong."
-- Ensuring data consistency across different microservices can be complex. Each piece of data should have a single source of truth, and other services must be able to adapt and stay in sync with this source. ***Distributed Transactions*** can be very effective in managing this.
+- Ensuring data consistency across different microservices can be complex. Each piece of data should have a single source of truth, and other services must be able to adapt and stay in sync with that source. ***Distributed Transactions*** can be very effective in managing this.
 - In distributed systems, network failures and latency issues are inevitable. Always design for resiliency and plan for retries and fallbacks.
 - Allocate sufficient time for system design rather than diving straight into coding. Designing for unhappy paths is often more challenging than designing for happy paths.
 - Even a rare bug with a probability of $0.001$% can occur more frequently than expected with a large number of users. For example, with $10,000$ daily users, you might encounter such a bug approximately every $10$ days.
