@@ -60,7 +60,7 @@ Here’s some things I’ve learned from my experience over the years:
 
 - **Murphy's Law:** "Anything that can go wrong, will go wrong."
 - Ensuring data consistency across different microservices can be complex. Each piece of data should have a single source of truth, and other services must be able to adapt and stay in sync with that source. ***Distributed Transactions*** are your friend.
-- In distributed systems, network problems are inevitable. Always design for resiliency and plan for retries and fallbacks.
+- In distributed systems, network failures are inevitable. Always design for resiliency and plan for retries and fallbacks.
 - Allocate sufficient time to plan the entire design before diving into coding. Designing for unhappy paths is often more challenging than designing for happy paths.
 - Even a rare bug with a probability of **0.01%** can occur more frequently than expected with a large number of users. For example, with **10,000** daily users, you might encounter such a bug approximately everyday.
 - As the system scales, performance bottlenecks can appear. Regular profiling can help find and fix these issues early.
