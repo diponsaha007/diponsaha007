@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Apurba Saha</h1>
 <h2 align="left">🕵️‍♂️ About Me</h2>
 
-I'm currently working as a **Software Engineer - Level 3** at [Chaldal](https://chaldal.tech/). I completed my undergraduate degree in **Computer Science and Engineering** from **BUET** in 2023. I have over **5 years** of experience doing competitive programming and working on various projects and more than **2 years** of professional experience. 
+I'm currently working as a **Software Development Engineer** at [AWS](https://aws.amazon.com/). I completed my undergraduate degree in **Computer Science and Engineering** from **BUET** in 2023. I have over **5 years** of experience doing competitive programming and working on various projects and more than **2 years** of professional experience. 
 
 - 🧩 I enjoy solving complex algorithmic problems. During my undergraduate years, I participated in various programming contests and hackathons. I had the honor of representing my country in the ***45th ICPC World Finals*** in ***Dhaka, Bangladesh***, and the ***47th ICPC World Finals*** in ***Luxor, Egypt***.
 - 🏆 I am rated ***Master*** in ***Codeforces***.
