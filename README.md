@@ -12,12 +12,12 @@ I'm a **Software Development Engineer** at [Amazon Web Services](https://aws.ama
 
 <h2 align="left">♟️ Featured App: Chess Mortem</h2>
 
-[**Chess Mortem**](https://github.com/diponsaha007/chess_mortem_public) is an Android app I built that reviews your chess games offline. No more paid chess analysis.
+**[Chess Mortem](https://github.com/diponsaha007/chess_mortem_public)** is an Android app I built that explains your chess games in plain English, for free and offline.
 
-- 🔍 On-device ***Stockfish*** evaluates every move, and an algorithm grades each one from ***Brilliant*** to ***Blunder***.
-- 🗣️ It explains each move in plain English. Board-analysis detectors recognise ***60+ chess ideas*** such as forks, pins and trapped pieces, and a ranker trained on labelled moves picks the one worth explaining.
-- 📴 The analysis runs entirely on your phone, so it works without an internet connection.
-- 🤖 Optionally, an ***LLM*** can write a more detailed explanation. It is grounded on the facts the engine and detectors have already found, so it doesn't make up chess ideas or positions, even with free models.
+- 🗣️ Every move gets one line on what happened, like "That allows your opponent to trap the knight on h5". Board code looks for 60+ chess concepts, such as forks, pins and trapped pieces, and a small ranker trained on labelled moves picks the one worth saying.
+- 🔍 Stockfish scores every move on your phone, and the app grades each one from Brilliant to Blunder.
+- 📴 Everything runs on the device, so it works without an internet connection.
+- 🤖 For longer explanations, add a key from a free LLM API provider. The model is grounded in the coach line and the facts the engine and board code found, so it explains what's there instead of making things up, even with free models.
 
 > 💡 ***Feel free to reach out to me on [***linkedin***](https://www.linkedin.com/in/apurba-saha-693a88146/) or [***mail***](mailto:diponsaha007@gmail.com) if you have similar interests and want to discuss opportunities or collaborate. You can also check out my [***portfolio***](https://diponsaha007.github.io/).***
 
